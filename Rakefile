@@ -119,8 +119,9 @@ end
 desc "Create a new page in #{source_dir}/(filename)/index.#{new_page_ext}"
 task :new_page, :filename do |t, args|
   raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." unless File.directory?(source_dir)
-  args.with_defaults(:filename => 'new-page')
+  args.with_defaults(:filename => 'about')
   page_dir = [source_dir]
+  p '1' * 30
   if args.filename.downcase =~ /(^.+\/)?(.+)/
     filename, dot, extension = $2.rpartition('.').reject(&:empty?)         # Get filename and extension
     title = filename
