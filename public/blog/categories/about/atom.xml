@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Julio Lucero]]></title>
-  <link href="http://julioalucero.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: about | Julio Lucero]]></title>
+  <link href="http://julioalucero.github.com/blog/categories/about/atom.xml" rel="self"/>
   <link href="http://julioalucero.github.com/"/>
   <updated>2013-02-10T21:14:48-03:00</updated>
   <id>http://julioalucero.github.com/</id>
@@ -22,12 +22,12 @@
 
 <h3>About What?</h3>
 
-<p>I&#8217;m a web developer and my favourite language is Ruby, so here you can find
+<p>I'm a web developer and my favourite language is Ruby, so here you can find
 some post about Ruby &amp; friends.</p>
 
-<h3>How are the Ruby&#8217;s friends?</h3>
+<h3>How are the Ruby's friends?</h3>
 
-<p>To me the Ruby&#8217;s friends can be all relationship with POO, Agile Development, some
+<p>To me the Ruby's friends can be all relationship with POO, Agile Development, some
 another languages like javascript, all about web development and so on.</p>
 ]]></content>
   </entry>
