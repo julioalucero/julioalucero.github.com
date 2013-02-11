@@ -20,7 +20,16 @@
 //$sidebar-pad-wide: 20px;
 //$sidebar-width-wide: 300px;
 
-header
+html {
+  background: #e7e7e7 url(../images/body-bg.png) !important
+}
+
+body {
+  background: url(../images/highlight-bg.jpg) 50% 0 no-repeat !important;
+  padding: 0 11%;
+}
+
+header hgroup
   h1 {
-    left: 29px;
+    padding-left: 2%;
   }
