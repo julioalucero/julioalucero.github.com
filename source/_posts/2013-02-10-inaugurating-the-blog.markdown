@@ -6,14 +6,16 @@ comments: true
 categories: about
 ---
 
-This is my new blog where the idea is write one post per month.
+This is the first post of my blog. So now I should just start to write...
 
-### About What?
+### Write about What?
 
-I'm a web developer and my favourite language is Ruby, so here you can find
-some post about Ruby & friends.
+Mmmm... I'm a web developer and my favourite language at the moment is Ruby,
+so here probably you will find some post about Ruby & friends...
 
-### How are the Ruby's friends?
+### Ok, but how are the Ruby's friends?
 
-To me the Ruby's friends can be all relationship with POO, Agile Development, some
-another languages like javascript, all about web development and so on.
+At least to me the Ruby's friends would be all relationship with POO,
+Agile and Pragmatic software development, something for another languages
+like javascript, etc. The list would be very long but in short it will be
+about development in general.
