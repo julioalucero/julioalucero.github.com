@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "inaugurating the blog"
+title: "Inaugurating the Blog"
 date: 2013-02-10 20:11
 comments: true
-categories: about
+categories: [about, english]
 ---
 
 This is the first post of my blog. So now I should just start to write...
@@ -19,3 +19,10 @@ At least to me the Ruby's friends would be all relationship with POO,
 Agile and Pragmatic software development, something for another languages
 like javascript, etc. The list would be very long but in short it will be
 about development in general.
+
+### Anything else?
+
+Yes, you'll find some audio about IT that every week prepare for the online
+radio [Frecuencia Primavera][1]. Enjoy!
+
+[1]: http://frecuenciaprimavera.com
