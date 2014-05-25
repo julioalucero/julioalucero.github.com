@@ -30,11 +30,6 @@ body {
   max-width: 1000px;
 }
 
-header hgroup
-  h1 {
-    //padding-left: 2%;
-  }
-
 #content div.pagination {
   border-top: 1px solid #ccc;
 }
@@ -43,10 +38,6 @@ header hgroup
   -moz-column-count:3; /* Firefox */
   -webkit-column-count:3; /* Safari and Chrome */
   column-count:3;
-}
-
-body header h2 {
-  font-size: 2em !important;
 }
 
 article header {

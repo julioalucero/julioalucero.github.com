@@ -1,2 +1,27 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+#header {
+  float: left;
+  display: block;
+  width: 30%;
+}
+
+body>nav {
+  float: right;
+  display: block;
+  width: 62%;
+}
+
+nav ul {
+  clear: both;
+  margin-bottom: 12px;
+}
+
+body>nav form {
+  clear: both;
+  float: left;
+}
+
+#main {
+  clear: both;
+}
