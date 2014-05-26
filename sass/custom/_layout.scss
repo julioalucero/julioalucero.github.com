@@ -34,7 +34,7 @@ body {
   border-top: 1px solid #ccc;
 }
 
-#content .entry-content {
+#content .blog-index article .entry-content {
   -moz-column-count:3; /* Firefox */
   -webkit-column-count:3; /* Safari and Chrome */
   column-count:3;
