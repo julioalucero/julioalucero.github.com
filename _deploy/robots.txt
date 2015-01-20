@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://julioalucero.github.com/sitemap.xml 
