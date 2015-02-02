@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: about | Julio Lucero]]></title>
+  <link href="http://julioalucero.github.com/blog/categories/about/atom.xml" rel="self"/>
+  <link href="http://julioalucero.github.com/"/>
+  <updated>2013-05-26T23:09:54-03:00</updated>
+  <id>http://julioalucero.github.com/</id>
+  <author>
+    <name><![CDATA[Julio Lucero]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[inaugurating the blog]]></title>
+    <link href="http://julioalucero.github.com/blog/2013/02/10/inaugurating-the-blog/"/>
+    <updated>2013-02-10T20:11:00-03:00</updated>
+    <id>http://julioalucero.github.com/blog/2013/02/10/inaugurating-the-blog</id>
+    <content type="html"><![CDATA[<p>This is the first post of my blog. So now I should just start to write...</p>
+
+<h3>Write about What?</h3>
+
+<p>Mmmm... I'm a web developer and my favourite language at the moment is Ruby,
+so here probably you will find some post about Ruby &amp; friends...</p>
+
+<h3>Ok, but how are the Ruby's friends?</h3>
+
+<p>At least to me the Ruby's friends would be all relationship with POO,
+Agile and Pragmatic software development, something for another languages
+like javascript, etc. The list would be very long but in short it will be
+about development in general.</p>
+]]></content>
+  </entry>
+  
+</feed>
